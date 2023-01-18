@@ -1,0 +1,305 @@
+[DEBUG] -------------------------------------------------- 1. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 269-t a 5. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 111
+[DEBUG] Bolti keszlet: 111
+[DEBUG] Ennyit akarnak venni: 111
+[DEBUG] Ennyi terméket adtak el: 111
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 100
+[DEBUG] Bolti keszlet: 100
+[DEBUG] Ennyit akarnak venni: 102
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 2
+[DEBUG] Ennyi terméket adtak el: 100
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 101
+[DEBUG] Bolti keszlet: 101
+[DEBUG] Ennyit akarnak venni: 95
+[DEBUG] Ennyi terméket adtak el: 95
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 6
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 688
+[DEBUG] Counter({'not_enough_in_store': 2, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 2. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 292-t a 6. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 100
+[DEBUG] Bolti keszlet: 100
+[DEBUG] Ennyit akarnak venni: 109
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 9
+[DEBUG] Ennyi terméket adtak el: 100
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 111
+[DEBUG] Bolti keszlet: 111
+[DEBUG] Ennyit akarnak venni: 118
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 7
+[DEBUG] Ennyi terméket adtak el: 111
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 111
+[DEBUG] Bolti keszlet: 117
+[DEBUG] Ennyit akarnak venni: 127
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 10
+[DEBUG] Ennyi terméket adtak el: 117
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 366
+[DEBUG] Counter({'not_enough_in_store': 28, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 3. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 291-t a 7. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 87
+[DEBUG] Bolti keszlet: 87
+[DEBUG] Ennyit akarnak venni: 96
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 9
+[DEBUG] Ennyi terméket adtak el: 87
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 96
+[DEBUG] Bolti keszlet: 96
+[DEBUG] Ennyit akarnak venni: 84
+[DEBUG] Ennyi terméket adtak el: 84
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 12
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 106
+[DEBUG] Bolti keszlet: 106
+[DEBUG] Ennyit akarnak venni: 110
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 4
+[DEBUG] Ennyi terméket adtak el: 106
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 77
+[DEBUG] Counter({'not_enough_in_store': 41, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 4. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 323-t a 8. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 94
+[DEBUG] A raktár erre a boltra nem tudja teljesíteni a kiszállítást!
+[DEBUG] A raktár csak ennyit szállít ki: 77
+[DEBUG] COST: 17
+[DEBUG] Bolti keszlet: 77
+[DEBUG] Ennyit akarnak venni: 108
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 31
+[DEBUG] Ennyi terméket adtak el: 77
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 111
+[DEBUG] A raktár erre a boltra nem tudja teljesíteni a kiszállítást!
+[DEBUG] A raktár csak ennyit szállít ki: 0
+[DEBUG] COST: 111
+[DEBUG] Bolti keszlet: 12
+[DEBUG] Ennyit akarnak venni: 131
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 119
+[DEBUG] Ennyi terméket adtak el: 12
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 106
+[DEBUG] A raktár erre a boltra nem tudja teljesíteni a kiszállítást!
+[DEBUG] A raktár csak ennyit szállít ki: 0
+[DEBUG] COST: 106
+[DEBUG] Bolti keszlet: 0
+[DEBUG] Ennyit akarnak venni: 116
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 116
+[DEBUG] Ennyi terméket adtak el: 0
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 307, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 5. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 296-t a 9. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 96
+[DEBUG] Bolti keszlet: 96
+[DEBUG] Ennyit akarnak venni: 102
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 6
+[DEBUG] Ennyi terméket adtak el: 96
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 81
+[DEBUG] Bolti keszlet: 81
+[DEBUG] Ennyit akarnak venni: 60
+[DEBUG] Ennyi terméket adtak el: 60
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 21
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 92
+[DEBUG] Bolti keszlet: 92
+[DEBUG] Ennyit akarnak venni: 153
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 61
+[DEBUG] Ennyi terméket adtak el: 92
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 374, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 6. NAP --------------------------------------------------
+[DEBUG] Rendel a raktár: 302-t a 10. napra.
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 102
+[DEBUG] Bolti keszlet: 102
+[DEBUG] Ennyit akarnak venni: 122
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 20
+[DEBUG] Ennyi terméket adtak el: 102
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 101
+[DEBUG] Bolti keszlet: 122
+[DEBUG] Ennyit akarnak venni: 76
+[DEBUG] Ennyi terméket adtak el: 76
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 46
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 89
+[DEBUG] Bolti keszlet: 89
+[DEBUG] Ennyit akarnak venni: 73
+[DEBUG] Ennyi terméket adtak el: 73
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 16
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 394, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 7. NAP --------------------------------------------------
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 116
+[DEBUG] Bolti keszlet: 116
+[DEBUG] Ennyit akarnak venni: 82
+[DEBUG] Ennyi terméket adtak el: 82
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 34
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 82
+[DEBUG] Bolti keszlet: 128
+[DEBUG] Ennyit akarnak venni: 55
+[DEBUG] Ennyi terméket adtak el: 55
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 73
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 93
+[DEBUG] Bolti keszlet: 109
+[DEBUG] Ennyit akarnak venni: 136
+[DEBUG] A boltban nincs elég termék
+[DEBUG] COST: 27
+[DEBUG] Ennyi terméket adtak el: 109
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 0
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 421, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 8. NAP --------------------------------------------------
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 116
+[DEBUG] Bolti keszlet: 150
+[DEBUG] Ennyit akarnak venni: 91
+[DEBUG] Ennyi terméket adtak el: 91
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 59
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 105
+[DEBUG] Bolti keszlet: 178
+[DEBUG] Ennyit akarnak venni: 107
+[DEBUG] Ennyi terméket adtak el: 107
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 71
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 102
+[DEBUG] Bolti keszlet: 102
+[DEBUG] Ennyit akarnak venni: 94
+[DEBUG] Ennyi terméket adtak el: 94
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 8
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 421, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 9. NAP --------------------------------------------------
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 80
+[DEBUG] Bolti keszlet: 139
+[DEBUG] Ennyit akarnak venni: 101
+[DEBUG] Ennyi terméket adtak el: 101
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 38
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 101
+[DEBUG] Bolti keszlet: 172
+[DEBUG] Ennyit akarnak venni: 93
+[DEBUG] Ennyi terméket adtak el: 93
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 79
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 115
+[DEBUG] Bolti keszlet: 123
+[DEBUG] Ennyit akarnak venni: 103
+[DEBUG] Ennyi terméket adtak el: 103
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 20
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 421, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[DEBUG] -------------------------------------------------- 10. NAP --------------------------------------------------
+[DEBUG] ---------- 1. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 88
+[DEBUG] Bolti keszlet: 126
+[DEBUG] Ennyit akarnak venni: 41
+[DEBUG] Ennyi terméket adtak el: 41
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 85
+[DEBUG] ---------- 2. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 98
+[DEBUG] Bolti keszlet: 177
+[DEBUG] Ennyit akarnak venni: 82
+[DEBUG] Ennyi terméket adtak el: 82
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 95
+[DEBUG] ---------- 3. Bolt ----------
+[DEBUG] Ennyit rendel a bolt mara: 116
+[DEBUG] Bolti keszlet: 136
+[DEBUG] Ennyit akarnak venni: 110
+[DEBUG] Ennyi terméket adtak el: 110
+[DEBUG] HIBA (bolti kidobás): 0
+[DEBUG] Bolti keszlet: 26
+[DEBUG] -------------------------
+[DEBUG] HIBA (raktari kidobás): 0
+[DEBUG] Raktár készlet: 0
+[DEBUG] Counter({'not_enough_in_store': 421, 'not_enough_in_warehouse': 234, 'store_throwout': 0, 'warehouse_throwout': 0})
+[INFO] not_enough_in_store : 421
+[INFO] not_enough_in_warehouse : 234
+[INFO] store_throwout : 0
+[INFO] warehouse_throwout : 0
